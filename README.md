@@ -7,9 +7,9 @@
 
 - 💬 Ask me about **HTML,CSS,Javascript**
 
-- 📫 How to reach me @ **guptagopal252@gmail.com**
+- 📫 How to reach me: **guptagopal252@gmail.com**
 
-- ⚡ Fun fact about me **I also do competitive programming!**
+- ⚡ Fun fact about me: **I also do competitive programming!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
