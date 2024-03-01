@@ -9,7 +9,7 @@
 
 - 📫 How to reach me: **guptagopal252@gmail.com**
 
-- ⚡ Fun fact about me: **I also do competitive programming!**
+- ⚡ Fun fact about me: **I can div a center 😎!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
