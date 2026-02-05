@@ -62,6 +62,16 @@ Beyond my day-to-day work, I enjoy exploring backend systems, distributed archit
 
 </div>
 
+## 📈 GitHub Stats
+
+<div align="center">
+
+![](https://raw.githubusercontent.com/Gopal1252/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/Gopal1252/github-stats-transparent/output/generated/languages.svg)
+
+</div>
+
+
 ## 🌐 Let's Connect
 
 - 📎 [LinkedIn](https://www.linkedin.com/in/gopal-gupta-43084311a/)
