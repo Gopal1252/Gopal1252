@@ -8,7 +8,7 @@ Beyond my day-to-day work, I enjoy exploring backend systems, distributed archit
 
 ## 🧭 Areas of Exploration & Technical Focus
 
-- 🧩 **Backend & Distributed Systems**  
+- 🧩 **Backend & Distributed Systems (Primary Focus Right Now)**  
   Microservices, REST APIs, MongoDB, JWT auth, data pipelines, fault handling
 
 - 🤖 **Native Android Development**  
