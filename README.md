@@ -17,9 +17,6 @@ Beyond my day-to-day work, I enjoy exploring backend systems, distributed archit
 - ⚙️ **Core Programming & Problem Solving**  
   C/C++, Java, OOP design, data structures, competitive programming
 
-- 🌐 **Full-Stack Engineering**  
-  MERN stack, React dashboards, state management, scalable API design
-
 - 🧠 **Applied AI & Research**  
   GANs (Pix2Pix, CycleGAN), image-to-image translation, model training & evaluation
 
